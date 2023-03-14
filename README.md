@@ -2,6 +2,18 @@
 
 This is TicTacToe Game Application built on Flutter 3.7
 
+Game Rules:
+
+1)Player O starts first.
+
+2)Click Start button to play game.
+
+3)Result printed when game is over.
+
+4)Maximum timer is 30 seconds for entired game.
+
+5)Replay game by clicking Play Again! button.
+
 Android View:
 
 -Main Screen: 
